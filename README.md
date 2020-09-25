@@ -1,4 +1,4 @@
-# typora-blubook-themes
+# typora-blubook-themes (company variant)
 
 [![GitHub stars](https://img.shields.io/github/stars/FishionYu/typora-blubook-theme?style=flat-square)](https://github.com/FishionYu/typora-blubook-theme/stargazers)  ![GitHub All Releases](https://img.shields.io/github/downloads/FishionYu/typora-blubook-theme/total?color=%23c060a1&style=flat-square)  [![GitHub license](https://img.shields.io/github/license/FishionYu/typora-blubook-theme?style=flat-square)](https://github.com/FishionYu/typora-blubook-theme/blob/master/LICENSE)
 
